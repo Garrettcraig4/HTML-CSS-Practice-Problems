@@ -1,7 +1,6 @@
 /* Step-3 You can assign padding to all sides of a container by using the padding property. */
 
 .content-mid {
- 
 }
 
 .content-mid-header {
@@ -9,9 +8,8 @@
 }
 
 .content-container {
-
 }
 
 .content {
-  background: #D8D8D8;
+  background: #d8d8d8;
 }
